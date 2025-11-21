@@ -1,6 +1,8 @@
-🎉 🔥 PAVAN BHARADWAJ ANNAMBHOTLA — WELCOME TO MY GITHUB MULTIVERSE 🔥
-(AI/ML Engineer • LLM Whisperer • Backend Sorcerer • Cloud Wrangler)
+<h1 align="center">🎉🔥 PAVAN BHARADWAJ ANNAMBHOTLA — WELCOME TO MY GITHUB MULTIVERSE 🔥🎉</h1>
 
+<h3 align="center">
+  (AI/ML Engineer • LLM Whisperer • Backend Sorcerer • Cloud Wrangler)
+</h3>
 
 <h1 align="center">🚀 Hey there, I'm <span style="color:#39ff14">Pavan</span> 😎</h1>
 
@@ -40,9 +42,7 @@
       <li>Deep learning model that looks at chest X-rays and says “Hmm… something’s not right.”</li>
       <li>Powered by transfer learning, GPUs, and a little bit of hope.</li>
       <li>
-        👉 <a href="https://github.com/Pavanannambhotla/Covid19_Prediction_code.git">
-          Here’s the magic spell book 📖✨
-        </a>
+        👉 <a href="https://github.com/Pavanannambhotla/Covid19_Prediction_code.git">Here’s the magic spell book 📖✨</a>
       </li>
     </ul>
   </li>
@@ -53,9 +53,7 @@
       <li>Enterprise RAG system that turns messy PDFs into useful answers faster than an intern.</li>
       <li>Vector databases + embeddings + LLM reasoning = 🔥</li>
       <li>
-        👉 <a href="https://github.com/Pavanannambhotla/finance_compliance_rag_assistant.git">
-          Summon the RAG beast here 🐉
-        </a>
+        👉 <a href="https://github.com/Pavanannambhotla/finance_compliance_rag_assistant.git">Summon the RAG beast here 🐉</a>
       </li>
     </ul>
   </li>
@@ -72,7 +70,7 @@
     <b>⚡ High-Speed Backend Engineering</b>
     <ul>
       <li>FastAPI services running in <500ms — faster than your crush responding “seen.” 💔⚡</li>
-      <li>Kafka systems handling 5 million+ events/day (and somehow still stable).</li>
+      <li>Kafka systems handling 5M+ events/day (and somehow still stable).</li>
     </ul>
   </li>
 
@@ -112,8 +110,8 @@
 
   <li>
     <b>🟧 Paytm — Software Engineer (2021–2022)</b><br/>
-    Built payment and refund APIs that ran faster than weekend movie ticket bookings, plus anomaly checks that caught failures like a digital Sherlock.  
-    Dockerized deployments, Airflow ETLs, and real-time dashboards kept the whole payment universe from melting down 🚀💸
+    Built payment & refund APIs faster than weekend movie ticket bookings, plus anomaly checks that caught failures like a digital Sherlock.  
+    Dockerized deployments, Airflow ETLs, and dashboards kept the whole payment universe from melting down 🚀💸
   </li>
 
 </ul>
