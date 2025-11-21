@@ -1,12 +1,6 @@
 <h1 align="center">🎉🔥 PAVAN BHARADWAJ ANNAMBHOTLA — WELCOME TO MY GITHUB MULTIVERSE 🔥🎉</h1>
 
 <h3 align="center">
-  (AI/ML Engineer • LLM Whisperer • Backend Sorcerer • Cloud Wrangler)
-</h3>
-
-<h1 align="center">🚀 Hey there, I'm <span style="color:#39ff14">Pavan</span> 😎</h1>
-
-<h3 align="center">
   AI/ML Engineer • LLM Engineer • Backend Dev  
   <br/>Building Machines That Pretend To Be Smarter Than Me 🤖🧠
 </h3>
