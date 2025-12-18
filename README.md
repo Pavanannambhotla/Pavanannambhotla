@@ -115,13 +115,13 @@
 <h2>💬 Connect With Me (I Don’t Bite)</h2>
 
 <p>
-  <a href="https://www.linkedin.com/in/pavan-bharadwaj-annambhotla/">
+  <a href="https://www.linkedin.com/in/pavanbharadwaja/">
     🔗 LinkedIn: The Professional Version of Me 😇
   </a>
 </p>
 
 <p>
-  <a href="mailto:pavanbannambhotla@gmail.com">
+  <a href="mailto:pavanbannam10@gmail.com">
     📧 Email: Open For Cool Projects, Job Offers, And Memes
   </a>
 </p>
